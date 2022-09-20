@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Jingyu Fan"
 title_separator          : "-"
 name                     : &name "Jingyu Fan"
-description              : &description "personal description"
+description              : &description "Welcome to my personal website! I am a 6th-year Ph.D. student in Economics. My field is economic theory, with interests in both "
 url                      : https://jingyufan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jfan411/jingyufan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
