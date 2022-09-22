@@ -4,7 +4,7 @@ collection: talks
 type: "Conference Presentations: The 33rd Stony Brook International Conference on Game Theory; 2022 Conference on Mechanism and Institution Design; Trans-Atlantic Doctoral Conference"
 permalink: # /talks/2014-03-01-talk-3
 venue: # "Testing Institute of America 2014 Annual Conference"
-date: # 2014-03-01
+date: 2022-09-22
 location: # "Los Angeles, CA"
 ---
 
