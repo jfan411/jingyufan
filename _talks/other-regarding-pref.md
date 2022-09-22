@@ -8,5 +8,3 @@ collection: talks
 # location: "London, UK"
 ---
 
-# [More information here](http://example2.com)
-
