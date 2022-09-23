@@ -8,16 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Working Papers:
-======
-
-Corruption Networks
-------
+## Working Papers:
+###### Corruption Networks
 **ABSTRACT:** blah blah blah
 
-Work in Progress:
-======
-
-Cooperative Games with Other-Regarding Preferences
-------
+## Work in Progress:
+###### Cooperative Games with Other-Regarding Preferences
 **ABSTRACT:** blah blah blah
