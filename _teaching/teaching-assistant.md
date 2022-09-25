@@ -4,7 +4,6 @@ permalink: /teaching/
 
 ---
 
-### Teaching Assistant
 
 Econ 1: Principle of Economics (Fall 2018)
 
