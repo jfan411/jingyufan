@@ -16,4 +16,4 @@ Econ 106I: Organizational Economics _(Winter 2022)_
 
 Econ 106P: Pricing and Strategy _(Fall 2020, Fall 2022)_
 
-Econ 164: Advanced Topics in Macroeconomics - Theory of Economic Growth _(Spring 2019)_
+Econ 164: Advanced Topics in Macroeconomics - Theory of Economic Growth (Spring 2019)
