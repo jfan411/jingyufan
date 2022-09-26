@@ -4,8 +4,9 @@ permalink: /portfolio/
 
 ---
 
-# Teaching
-### Teaching Assistant
+
+**Teaching Assistant**
+
 Econ 1: Principle of Economics _(Fall 2018)_
 
 Econ 11: Microeconomic Theory _(Fall 2019, Winter 2020, Spring 2022)_
