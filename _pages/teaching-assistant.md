@@ -4,6 +4,7 @@ permalink: /portfolio/
 
 ---
 
+# Teaching
 ### Teaching Assistant
 Econ 1: Principle of Economics _(Fall 2018)_
 
