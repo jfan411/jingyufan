@@ -9,4 +9,4 @@ permalink: /talks/
 
 _Conferences: European Winter Meeting of the Econometric Society 2022 (scheduled); 33rd Stony Brook International Conference on Game Theory; 2022 Conference on Mechanism and Institution Design; 2022 Trans-Atlantic Doctoral Conference_
 
-### Cooperative Games with Other-Regarding Preferences _（draft coming soon）_
+### Cooperative Games with Other-Regarding Preferences _(draft coming soon)_
