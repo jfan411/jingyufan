@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD candidate in Economics at UCLA. My field is microeconomic theory, with research interests in social network and cooperative game. 
+Welcome! I am a PhD candidate in Economics at UCLA. My field is microeconomic theory, with research interests in social network, cooperative game and organizational economics. 
 
 I am currently on the 2022-2023 job market.
 
