@@ -4,7 +4,7 @@ permalink: /talks/
 
 ---
 
-### [Corruption Networks](https://drive.google.com/file/d/1UNshAVVsJ8pYY97G_kUB501z-oHfVqZh/view?usp=sharing)   _[ job market paper ]_
+### [Corruption Networks](https://drive.google.com/file/d/1UNshAVVsJ8pYY97G_kUB501z-oHfVqZh/view?usp=sharing) [job market paper]
 
 _**(R&R at International Economic Review)**_
 
